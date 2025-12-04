@@ -25,5 +25,5 @@ The Impact of Width, Depth, and Topology.”**
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/izehavi/GNN_oversquashing_and_topological_study/tree/main
    cd <repo-folder>
